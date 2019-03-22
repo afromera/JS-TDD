@@ -1,7 +1,8 @@
 const a = 3;
 
 function somarMaisUm() {
-  return a + 1;
+  const maisum = 1;
+  return a + maisum;
 }
 
 somarMaisUm();
